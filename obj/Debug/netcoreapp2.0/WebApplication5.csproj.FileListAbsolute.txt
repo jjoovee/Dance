@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.deps.json
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.json
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.dll
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.pdb
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.dll
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.pdb
+C:\Users\Admin\Desktop\saitynas\DanceApi\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csprojResolveAssemblyReference.cache
